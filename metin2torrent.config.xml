@@ -1,6 +1,6 @@
 <torrent_config 
 	notice_ver="6"
-	notice_url="http://www.casro2.com/patch/casro2_accept"
+	notice_url="https://github.com/etikmt2-lgtm/autopack/edit/main/"
 	notice_width="671"
 	notice_height="600"
 	bandwidth_range="5:10:25:50:75:100:150:200:250:500:1000:5000"
@@ -17,5 +17,6 @@
 	new_patcher_crc32="0xAF831BB9"
 	
 	>
-	<foreground_patch crcpatch_url="http://www.casro2.com/patch" crcversion="1.0.0.0"/>
+	<foreground_patch crcpatch_url="https://github.com/etikmt2-lgtm/autopack/edit/main/" crcversion="1.0.0.0"/>
+
 </torrent_config>
